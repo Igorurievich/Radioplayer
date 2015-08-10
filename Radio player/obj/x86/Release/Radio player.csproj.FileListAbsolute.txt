@@ -1,0 +1,10 @@
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\Radio playerold\Radio player\bin\x86\Release\Radio player.exe.config
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\Radio playerold\Radio player\obj\x86\Release\Interop.WMPLib.dll
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\Radio playerold\Radio player\obj\x86\Release\Radio player.csproj.ResolveComReference.cache
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\Radio playerold\Radio player\bin\x86\Release\Radio player.exe
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\Radio playerold\Radio player\bin\x86\Release\Bass.Net.dll
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\Radio playerold\Radio player\bin\x86\Release\IdSharp.dll
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\Radio playerold\Radio player\bin\x86\Release\Bass.Net.xml
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\Radio playerold\Radio player\bin\x86\Release\IdSharp.xml
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\Radio playerold\Radio player\obj\x86\Release\Radio player.csprojResolveAssemblyReference.cache
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\Radio playerold\Radio player\obj\x86\Release\Radio player.exe

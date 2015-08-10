@@ -1,0 +1,24 @@
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\Radio player\Radio player\bin\Release\Radio player.exe.config
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\Radio player\Radio player\obj\Release\Interop.WMPLib.dll
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\Radio player\Radio player\obj\Release\Radio player.csproj.ResolveComReference.cache
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\Radio player\Radio player\bin\Release\Radio player.exe
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\Radio player\Radio player\bin\Release\Radio player.pdb
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\Radio player\Radio player\bin\Release\Bass.Net.dll
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\Radio player\Radio player\bin\Release\IdSharp.dll
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\Radio player\Radio player\bin\Release\Bass.Net.xml
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\Radio player\Radio player\bin\Release\IdSharp.xml
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\Radio player\Radio player\obj\Release\Radio player.csprojResolveAssemblyReference.cache
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\Radio player\Radio player\obj\Release\Radio player.exe
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\Radio player\Radio player\obj\Release\Radio player.pdb
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\Radio playerold\Radio player\bin\Release\Radio player.exe.config
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\Radio playerold\Radio player\obj\Release\Interop.WMPLib.dll
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\Radio playerold\Radio player\obj\Release\Radio player.csproj.ResolveComReference.cache
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\Radio playerold\Radio player\obj\Release\Radio player.exe
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\Radio playerold\Radio player\obj\Release\Radio player.pdb
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\Radio playerold\Radio player\bin\Release\Radio player.exe
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\Radio playerold\Radio player\bin\Release\Radio player.pdb
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\Radio playerold\Radio player\bin\Release\Bass.Net.dll
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\Radio playerold\Radio player\bin\Release\IdSharp.dll
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\Radio playerold\Radio player\bin\Release\Bass.Net.xml
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\Radio playerold\Radio player\bin\Release\IdSharp.xml
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\Radio playerold\Radio player\obj\Release\Radio player.csprojResolveAssemblyReference.cache

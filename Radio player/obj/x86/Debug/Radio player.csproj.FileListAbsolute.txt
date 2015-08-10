@@ -1,0 +1,3 @@
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\Radio playerold\Radio player\bin\x86\Debug\Radio player.exe.config
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\Radio playerold\Radio player\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\Radio playerold\Radio player\obj\x86\Debug\Radio player.csproj.ResolveComReference.cache

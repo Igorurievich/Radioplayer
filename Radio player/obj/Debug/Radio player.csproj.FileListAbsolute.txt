@@ -1,0 +1,85 @@
+c:\users\skyper\documents\visual studio 2013\Projects\Radio player\Radio player\bin\Debug\Radio player.exe.config
+c:\users\skyper\documents\visual studio 2013\Projects\Radio player\Radio player\obj\Debug\Radio player.csprojResolveAssemblyReference.cache
+c:\users\skyper\documents\visual studio 2013\Projects\Radio player\Radio player\bin\Debug\Radio player.exe
+c:\users\skyper\documents\visual studio 2013\Projects\Radio player\Radio player\bin\Debug\Radio player.pdb
+c:\users\skyper\documents\visual studio 2013\Projects\Radio player\Radio player\obj\Debug\Interop.WMPLib.dll
+c:\users\skyper\documents\visual studio 2013\Projects\Radio player\Radio player\obj\Debug\Radio player.csproj.ResolveComReference.cache
+c:\users\skyper\documents\visual studio 2013\Projects\Radio player\Radio player\obj\Debug\Radio player.exe
+c:\users\skyper\documents\visual studio 2013\Projects\Radio player\Radio player\obj\Debug\Radio player.pdb
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\Radio player\Radio player\bin\Debug\Radio player.exe.config
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\Radio player\Radio player\obj\Debug\Interop.WMPLib.dll
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\Radio player\Radio player\obj\Debug\Radio player.csproj.ResolveComReference.cache
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\Radio player\Radio player\obj\Debug\Radio player.exe
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\Radio player\Radio player\obj\Debug\Radio player.pdb
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\Radio player\Radio player\bin\Debug\Radio player.exe
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\Radio player\Radio player\bin\Debug\Radio player.pdb
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\Radio player\Radio player\obj\Debug\Radio player.csprojResolveAssemblyReference.cache
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\Radio player\Radio player\bin\Debug\IdSharp.dll
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\Radio player\Radio player\bin\Debug\IdSharp.xml
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\Radio player\Radio player\bin\Debug\Bass.Net.xml
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\Radio playerold\Radio player\bin\Debug\Radio player.exe.config
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\Radio playerold\Radio player\bin\Debug\Radio player.exe
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\Radio playerold\Radio player\bin\Debug\Radio player.pdb
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\Radio playerold\Radio player\bin\Debug\IdSharp.dll
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\Radio playerold\Radio player\bin\Debug\Bass.Net.xml
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\Radio playerold\Radio player\bin\Debug\IdSharp.xml
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\Radio playerold\Radio player\obj\Debug\Radio player.csprojResolveAssemblyReference.cache
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\Radio playerold\Radio player\obj\Debug\Interop.WMPLib.dll
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\Radio playerold\Radio player\obj\Debug\Radio player.csproj.ResolveComReference.cache
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\Radio playerold\Radio player\obj\Debug\Radio player.exe
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\Radio playerold\Radio player\obj\Debug\Radio player.pdb
+D:\Radio playerold\Radio player\bin\Debug\Radio player.exe.config
+D:\Radio playerold\Radio player\obj\Debug\Interop.WMPLib.dll
+D:\Radio playerold\Radio player\obj\Debug\Radio player.csproj.ResolveComReference.cache
+D:\Radio playerold\Radio player\obj\Debug\Radio player.exe
+D:\Radio playerold\Radio player\obj\Debug\Radio player.pdb
+D:\Radio playerold\Radio player\bin\Debug\Radio player.exe
+D:\Radio playerold\Radio player\bin\Debug\Radio player.pdb
+D:\Radio playerold\Radio player\bin\Debug\IdSharp.dll
+D:\Radio playerold\Radio player\bin\Debug\Bass.Net.xml
+D:\Radio playerold\Radio player\bin\Debug\IdSharp.xml
+D:\Radio playerold\Radio player\obj\Debug\Radio player.csprojResolveAssemblyReference.cache
+D:\Универ\Radio playerold\Radio player\bin\Debug\Radio player.exe.config
+D:\Универ\Radio playerold\Radio player\obj\Debug\Interop.WMPLib.dll
+D:\Универ\Radio playerold\Radio player\obj\Debug\Radio player.csproj.ResolveComReference.cache
+D:\Универ\Radio playerold\Radio player\obj\Debug\Radio player.exe
+D:\Универ\Radio playerold\Radio player\obj\Debug\Radio player.pdb
+D:\Универ\Radio playerold\Radio player\bin\Debug\Radio player.exe
+D:\Универ\Radio playerold\Radio player\bin\Debug\Radio player.pdb
+D:\Универ\Radio playerold\Radio player\bin\Debug\IdSharp.dll
+D:\Универ\Radio playerold\Radio player\bin\Debug\Bass.Net.xml
+D:\Универ\Radio playerold\Radio player\bin\Debug\IdSharp.xml
+D:\Универ\Radio playerold\Radio player\obj\Debug\Radio player.csprojResolveAssemblyReference.cache
+D:\Google Drive\Radio playerold\Radio player\bin\Debug\Radio player.exe.config
+D:\Google Drive\Radio playerold\Radio player\obj\Debug\Interop.WMPLib.dll
+D:\Google Drive\Radio playerold\Radio player\obj\Debug\Radio player.csproj.ResolveComReference.cache
+D:\Google Drive\Radio playerold\Radio player\obj\Debug\Radio player.exe
+D:\Google Drive\Radio playerold\Radio player\obj\Debug\Radio player.pdb
+D:\Google Drive\Radio playerold\Radio player\bin\Debug\Radio player.exe
+D:\Google Drive\Radio playerold\Radio player\bin\Debug\Radio player.pdb
+D:\Google Drive\Radio playerold\Radio player\bin\Debug\IdSharp.dll
+D:\Google Drive\Radio playerold\Radio player\bin\Debug\Bass.Net.xml
+D:\Google Drive\Radio playerold\Radio player\bin\Debug\IdSharp.xml
+D:\Google Drive\Radio playerold\Radio player\obj\Debug\Radio player.csprojResolveAssemblyReference.cache
+C:\Users\Игорь\Desktop\Radio playerold\Radio player\bin\Debug\Radio player.exe.config
+C:\Users\Игорь\Desktop\Radio playerold\Radio player\obj\Debug\Interop.WMPLib.dll
+C:\Users\Игорь\Desktop\Radio playerold\Radio player\obj\Debug\Radio player.csproj.ResolveComReference.cache
+C:\Users\Игорь\Desktop\Radio playerold\Radio player\obj\Debug\Radio player.exe
+C:\Users\Игорь\Desktop\Radio playerold\Radio player\obj\Debug\Radio player.pdb
+C:\Users\Игорь\Desktop\Radio playerold\Radio player\bin\Debug\Radio player.exe
+C:\Users\Игорь\Desktop\Radio playerold\Radio player\bin\Debug\Radio player.pdb
+C:\Users\Игорь\Desktop\Radio playerold\Radio player\bin\Debug\IdSharp.dll
+C:\Users\Игорь\Desktop\Radio playerold\Radio player\bin\Debug\Bass.Net.xml
+C:\Users\Игорь\Desktop\Radio playerold\Radio player\bin\Debug\IdSharp.xml
+C:\Users\Игорь\Desktop\Radio playerold\Radio player\obj\Debug\Radio player.csprojResolveAssemblyReference.cache
+D:\Backup\Рабочий стол\Radio playerold\Radio player\bin\Debug\Radio player.exe.config
+D:\Backup\Рабочий стол\Radio playerold\Radio player\obj\Debug\Interop.WMPLib.dll
+D:\Backup\Рабочий стол\Radio playerold\Radio player\obj\Debug\Radio player.csproj.ResolveComReference.cache
+D:\Backup\Рабочий стол\Radio playerold\Radio player\obj\Debug\Radio player.exe
+D:\Backup\Рабочий стол\Radio playerold\Radio player\obj\Debug\Radio player.pdb
+D:\Backup\Рабочий стол\Radio playerold\Radio player\bin\Debug\Radio player.exe
+D:\Backup\Рабочий стол\Radio playerold\Radio player\bin\Debug\Radio player.pdb
+D:\Backup\Рабочий стол\Radio playerold\Radio player\bin\Debug\IdSharp.dll
+D:\Backup\Рабочий стол\Radio playerold\Radio player\bin\Debug\Bass.Net.xml
+D:\Backup\Рабочий стол\Radio playerold\Radio player\bin\Debug\IdSharp.xml
+D:\Backup\Рабочий стол\Radio playerold\Radio player\obj\Debug\Radio player.csprojResolveAssemblyReference.cache
